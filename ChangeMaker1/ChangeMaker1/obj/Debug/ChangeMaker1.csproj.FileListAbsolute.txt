@@ -4,3 +4,9 @@ C:\Users\Nik\Documents\GitHub\Program5Solutions\ChangeMaker1\ChangeMaker1\bin\De
 C:\Users\Nik\Documents\GitHub\Program5Solutions\ChangeMaker1\ChangeMaker1\obj\Debug\ChangeMaker1.csprojResolveAssemblyReference.cache
 C:\Users\Nik\Documents\GitHub\Program5Solutions\ChangeMaker1\ChangeMaker1\obj\Debug\ChangeMaker1.exe
 C:\Users\Nik\Documents\GitHub\Program5Solutions\ChangeMaker1\ChangeMaker1\obj\Debug\ChangeMaker1.pdb
+C:\Users\Nik\Documents\GitHub\ChangeMaker\ChangeMaker1\ChangeMaker1\bin\Debug\ChangeMaker1.exe.config
+C:\Users\Nik\Documents\GitHub\ChangeMaker\ChangeMaker1\ChangeMaker1\obj\Debug\ChangeMaker1.exe
+C:\Users\Nik\Documents\GitHub\ChangeMaker\ChangeMaker1\ChangeMaker1\obj\Debug\ChangeMaker1.pdb
+C:\Users\Nik\Documents\GitHub\ChangeMaker\ChangeMaker1\ChangeMaker1\bin\Debug\ChangeMaker1.exe
+C:\Users\Nik\Documents\GitHub\ChangeMaker\ChangeMaker1\ChangeMaker1\bin\Debug\ChangeMaker1.pdb
+C:\Users\Nik\Documents\GitHub\ChangeMaker\ChangeMaker1\ChangeMaker1\obj\Debug\ChangeMaker1.csprojResolveAssemblyReference.cache
